@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.d-flex {
+  display: flex;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+button:not(.button-submit) {
+  font-family: 'Ubuntu', sans-serif;
+}

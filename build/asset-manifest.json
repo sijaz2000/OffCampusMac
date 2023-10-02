@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e809a06.css",
+    "main.js": "/static/js/main.fd0718b9.js",
+    "static/media/Background1.jpeg": "/static/media/Background1.9cf4b48100286145c61e.jpeg",
+    "static/media/MacLogo.png": "/static/media/MacLogo.72038f1fca11fbdba54c.png",
+    "static/media/salman.jpg": "/static/media/salman.d0b6f5fa0ea910f85be4.jpg",
+    "static/media/aliya.jpg": "/static/media/aliya.0dee77b1c7dd73ccdc77.jpg",
+    "static/media/aalyan.jpg": "/static/media/aalyan.ec7fcced4bbe6022edcb.jpg",
+    "static/media/haris.jpg": "/static/media/haris.e1b853d134b934aebee9.jpg",
+    "index.html": "/index.html",
+    "main.8e809a06.css.map": "/static/css/main.8e809a06.css.map",
+    "main.fd0718b9.js.map": "/static/js/main.fd0718b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e809a06.css",
+    "static/js/main.fd0718b9.js"
+  ]
+}
